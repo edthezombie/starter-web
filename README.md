@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ##How To Contribute
 Adding more blah blah blah
-
+Please for this repo and then issue Pull Requests for review.
 ##DEPLOYMENT
 Details about deployment
 
