@@ -12,3 +12,6 @@ Adding more blah blah blah
 
 ##DEPLOYMENT
 Details about deployment
+
+###Copyright
+2018GIT TRAINING
